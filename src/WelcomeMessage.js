@@ -58,7 +58,7 @@ function WelcomeMessage()
                 </div>
 
                 <div className="game-preview">
-                    <p>🏈 <strong>Dean's Definitive Team (Dean) vs Hanah's Nifty Team</strong></p>
+                    <p>🏈 <strong>Dean's Definitive Team (Dean) vs Hanah's Nifty Team (Hanah)</strong></p>
                     <p><em>Predicted scores: 110.9 - 110.6</em></p>
                     <p>Seems like Dean and Hanah spent a little too much time scrutinizing their teams instead of coming up with snazzy team names! This is a nail-biter in the making with a difference of mere decimals!</p>
                 </div>
