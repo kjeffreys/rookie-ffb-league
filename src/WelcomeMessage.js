@@ -50,7 +50,7 @@ function WelcomeMessage()
 
             <section className='game-previews'>
                 <h2>Week 1 Game Previews</h2>
-                <p>Alright, now for the fun part! Here's a cheeky preview of the epic battles lined up for Week 1.</p>
+                <p>Alright, now for the fun part! Here's a preview of the epic battles lined up for Week 1.</p>
                 <div className="game-preview">
                     <p>🏈 <strong>Lucy's Head Coach (Kyle) vs El Duderino (Luke)</strong></p>
                     <p><em>Predicted scores: 114 - 119</em></p>
