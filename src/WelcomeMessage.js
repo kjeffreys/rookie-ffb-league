@@ -66,13 +66,13 @@ function WelcomeMessage()
                 <div className="game-preview">
                     <p>🏈 <strong>No Barkley No Bite (Bill) vs The Maine Event (Craig)</strong></p>
                     <p><em>Predicted scores: 123 - 119</em></p>
-                    <p>This is touted to be the highest scoring clash of the week. With 'No Barkley, does Bill still have a strong bite, or is he just fodder for The Maine Event’s upset? A thrilling encounter awaits!</p>
+                    <p>This is touted to be the highest scoring clash of the week. With No Barkley, does Bill still have a strong bite, or is he just fodder for The Maine Event’s upset? A thrilling encounter awaits!</p>
                 </div>
 
                 <div className="game-preview">
                     <p>🏈 <strong>Eric's Endzone Endgame (Eric) vs Espresso LoPres(t)o (Alicen/Chris)</strong></p>
                     <p><em>Predicted scores: 120 - 119</em></p>
-                    <p>Will Eric's strategic "endgame" maneuvers score a win against the caffeine-fueled rush of Espresso LoPres(t)o? Or will Alicen and Chris brew up a storm, leaving Eric in the froth? Get ready for a high-octane game!</p>
+                    <p>A caffeinated clash awaits us as Eric aims to reach the endzone before the Espresso cools down. Who will have the last sip?</p>
                 </div>
 
                 <div className="game-preview">
