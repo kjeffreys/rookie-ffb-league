@@ -7,8 +7,8 @@ function WelcomeMessage()
         <div className="container">
             <div className="header">
                 <h1>Week 1 Awards!</h1>
-                <h2><strong>Top Team Score</strong>: 131.56 pts -- Lucy's Mom has got it going on (Joanna)</h2>
-                <h2><strong>Top Player Score</strong>: Tyreek Hill -- 41 pts -- (The Maine Event)</h2>
+                <h2><strong>👑Top Team Score</strong>: 131.56 pts -- Lucy's Mom has got it going on (Joanna)</h2>
+                <h2><strong>👑Top Player Score</strong>: Tyreek Hill -- 41 pts -- (The Maine Event)</h2>
                 <h2><strong>Most ridiculous player</strong>: Dallas -- scored 37 points and mentally broke the Giants -- (The Unit)</h2>
                 <p>Let me know if there are other weekly awards we should track</p>
             </div>
