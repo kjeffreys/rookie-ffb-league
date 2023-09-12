@@ -23,12 +23,12 @@ function WelcomeMessage()
                 <div className="game-preview">
                     <p>🏈 <strong>Dean's Definitive Team (0-1) vs El Duderino (0-1)</strong></p>
                     <p><em>Predicted scores: 111 - 117</em></p>
-                    <p>Father versus son. Dean's Definitive Team goes head-to-head with El Duderino. Dean's been trying to swap Dak Prescott with the Dallas defense since they scored more last week, while Luke's star-studded lineup took a humble pie to the face last week. Will the <strong>rookie rivalry of the week </strong>see the dad school the son, or will youth prevail? Stay tuned!</p>
+                    <p>Father versus son. Dean's Definitive Team goes head-to-head with El Duderino. Dean's been trying to swap Dak Prescott with the Dallas defense since they scored more last week, while Luke's star-studded lineup took a humble pie to the face last week. Will the <strong>RIVALRY</strong> of the week see the dad school the son, or will youth prevail? Stay tuned!</p>
                 </div>
                 <div className="game-preview">
                     <p>🏈 <strong>Lucy's Head Coach (1-0) vs The Unit (0-1)</strong></p>
                     <p><em>Predicted scores: 108 - 95</em></p>
-                    <p>The scores may be misleading as lineups aren't set yet. But with the clash of head coach vs. unit, it's the battle of coacher versus the coachees!"</p>
+                    <p>The scores may be misleading as lineups aren't set yet. But with the clash of head coach vs. unit, it's the battle of coacher versus the coachees!</p>
                 </div>
                 <div className="game-preview">
                     <p>🏈 <strong>No Barkley No Bite (1-0) vs Lucy's Mom has got it going on (1-0)</strong></p>
