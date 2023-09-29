@@ -8,57 +8,63 @@ function WelcomeMessage()
     return (
         <div className="container">
             <div className="header">
-                <h1>Week 2 Awards!</h1>
-                <h2><strong>👑Top Team Score</strong>: 147.72 pts -- Bill's team, No Barkley No Bite</h2>
-                <h2><strong>👑Top Player Score</strong>: Daniel Jones -- 32.74 pts -- (No Barkley No Bite's team)</h2>
-                <h2><strong>👑Biggest Win</strong>: 28 pts -- El Duderino (Luke)</h2>
-                <h2><strong>Fail Snail</strong>: Lucy's Head Coach (Kyle) coming 9 pts short of projection</h2>
+                <h1>Week 3 Awards!</h1>
+                <h2><strong>👑Top Team Score</strong>: 165.56 pts -- Hanah's Nifty Team (Hanah's team, but you already knew that)</h2>
+                <h2><strong>👑Top Player Score</strong>: De'Von Achane -- 53.3 pts -- (no one had him, b/c that would be crazy as there was no indication he'd ever play until he did)</h2>
+                <h2><strong>👑Biggest Win</strong>: 34 pts -- Dean's Definitive Team (Dean)</h2>
+                <h2><strong>Fail Snail</strong>: Honestly most people beat or neared projections so we'll wait for a bigger flop in week 4. Fail harder if you want recognition!</h2>
                 <img src={snailGif} alt="Snail GIF" style={{ width: '100px', height: '100px' }} />
 
             </div>
 
             <section className="announcement">
-                <h2>Week 2 recap</h2>
-                <p>Only 2 weeks done and a lot of parity in the standings. Hang in there!</p>
+                <h2>Week 3 recap</h2>
+                <p>Had family in town and job stuff going on. My apologies for the delay. Bill and Hanah remain the undefeated monarchs of the league, almost everyone has received their first win (sorry Craig), and the season remains long. Be the tortoise, not a lousy hare.</p>
 
             </section>
             <section className='game-previews'>
-                <h2>Week 3 Game Previews</h2>
-                <p>Alright, now for the fun part! Here's a preview of the epic battles lined up for Week 3.</p>
+                <h2>Week 4 Game Previews</h2>
+                <p>Alright, now for the fun part! Here's a preview of the epic battles lined up for Week 4.</p>
 
                 <div className="game-preview">
-                    <p>🏈 <strong>Eric's Endzone Game (Eric) (1-1) vs The Maine Event (Craig) (0-2)</strong></p>
-                    <p><em>Projected Scores: 121.98 - 114.88</em></p>
-                    <p>Great things come from Maine, and this week, both Eric and Craig are set to prove it. As the <strong>Rivaly of the Week</strong> heats up, who will get the chance to celebrate the other's victory? Stay tuned!</p>
+                    <p>🏈 <strong>El Duderino (Luke) (1-2) vs The Unit (Dave and Rissa) (1-2)</strong></p>
+                    <p><em>Projected Scores: 115.34 - 80.33</em></p>
+                    <p>Luke might have had the weaker running back in Thursday's game, but he's still the favorite in this match, mainly by showcasing a complete roster of eligible players. It's a bold strategy! But will it pay off?</p>
+                </div>
+
+                <div className="game-preview">
+                    <p>🏈 <strong>The Maine Event (Craig) (0-3) vs Hanah's Nifty Team (guess who) (3-0)</strong></p>
+                    <p><em>Projected Scores: 112 - 114</em></p>
+                    <p>Hanah's team has been outperforming projections considerably, adding intrigue to this matchup. However, a challenging Thursday saw her two running backs almost negating each other. Contrastingly, Craig is still awaiting a stroke of luck, with his QB Goff securing a win primarily by abstaining from throwing. Both managers have a pivotal player languishing on injured reserve, adding another layer to the unfolding drama. Will projections, records, or any statistical insights have a say in this encounter?</p>
+                    <p>Seems unlikely</p>
+                </div>
+
+                <div className="game-preview">
+                    <p>🏈 <strong>The Passion of the Christ(ian) (Eric) (2-1) vs Lucy's Mom has got it going on (Joanna) (1-2)</strong></p>
+                    <p><em>Projected Scores: 124 - 108</em></p>
+                    <p>Eric's stars like Burrow seem to be regrowing functional calves just in the nick of time for this matchup. Jo's stars are still stuck somewhere off the field, scootching along with walkers. Can Jo defy projections and and reclaim her winning ways? Or is the power of bipedal quarterbacks too strong? Stay tuned.</p>
+                </div>
+
+                <div className="game-preview">
+                    <p>🏈 <strong>Dean's Definitive Team (Dean) (1-2) vs No Barkley No Bite (Bill) (3-0)</strong></p>
+                    <p><em>Projected Scores: 111 - 128</em></p>
+                    <p>Bill stumbled and proverbially stubbed his toe in the projections last week. But Kyle's defense was so bad they kept giving him negative points even after the week ended. Yes, really.</p>
+                    <p>So Bill marches on undefeated, walking right into the trap of Dean's team coming off their first victory. Underdog and momentum is a dangerous combo, but then again Juju Smith-Schuster is a bold play.</p>
+                    <p>Is bold the right word?</p>
                 </div>
                 <div className="game-preview">
-                    <p>🏈 <strong>Lucy's Head Coach (Kyle) (1-1) vs No Barkley No Bite (Bill) (2-0)</strong></p>
-                    <p><em>Projected Scores: 108 - 125</em></p>
-                    <p>This game figures to be less of a rivalry and more of a meat grinding. Kyle, who couldn't beat a lineup with sat out players last week, is hoping for mercy from Bill. Will Bill be merciful? No, he will not. Look away.</p>
-                </div>
-                <div className="game-preview">
-                    <p>🏈 <strong>Dean's Definitive Team (Dean) (0-2) vs The Unit (Dave and Rissa) (1-1)</strong></p>
-                    <p><em>Projected Scores: 107 - 85</em></p>
-                    <p>Dean is gearing up to wallop The Unit with the power of statistics, as he is projected to take the win this week. Meanwhile, Dave and Rissa showcased style by beating Kyle even with a player sitting out. Can they win with one hand tied behind their back again? Or will math seize the day?</p>
-                </div>
-                <div className="game-preview">
-                    <p>🏈 <strong>Lucy's Mom has got it going on (Joanna) (1-1) vs Espresso LoPrest(t)o (Alicen/Chris) (1-1)</strong></p>
-                    <p><em>Projected Scores: 108 - 115</em></p>
-                    <p>They're just too nice. I have no spice. To be continued...</p>
-                </div>
-                <div className="game-preview">
-                    <p>🏈 <strong>El Duderino (Luke) (1-1) vs Hanah's Nifty Team (Hanah) (2-0)</strong></p>
-                    <p><em>Projected Scores: 120 - 107</em></p>
-                    <p>Hanah is sitting atop the standings with only Bill sharing a 2-0 record. But Luke turned into a juggernaut against his own kin last week and is aiming to continue his streak. A battle not to be missed!</p>
+                    <p>🏈 <strong>Lucy's Head Coach (Kyle) (1-2) vs Espresso LoPres(t)o (LoPresto) (2-1)</strong></p>
+                    <p><em>Projected Scores: 117 - 108</em></p>
+                    <p>Kyle is reeling on a two game loss streak. He tried to stop the bleeding from Trevor Lawrence throwing to handless stubs of receivers with a trade offer for captain Kirk, but it seems impossible to obtain him from the Cousins (see what I did there). Thankfully Kyle enacted a new plan to pick up tight end, potentially sealing his fate in one play Thursday night with an injury to Luke MusGRAVE. The projections still look close, but it seems the LoPrestos are off to a big headstart, and right near the top of the standings with another win.</p>
                 </div>
 
 
 
-                <p> Keep up the good fight all! I'll keep the information from last week below in case anyone needs it. Also message in yahoo chat and people in the app's chat can see/give advice/ignore you like they ignore my wonderful recaps! Good luck.</p>
+                <p> Keep up the good fight all! I'll keep the information from below in case anyone needs it. Also message in yahoo chat and people in the app's chat can see/give advice/ignore you like they ignore my wonderful recaps! Good luck!</p>
             </section>
             <section className="announcement">
                 <h2>Player Lineups and Roster Changes</h2>
-                <p>Today is Wednesday, everyone! The first game of the season is just on the horizon, with Chiefs and Lions players kicking off tomorrow night. Yes, that's Thursday! While most of the games are scheduled for Sunday, it's wise to check and set your lineup by Wednesday to avoid any last-minute rushes. Here’s a brief guide to help you navigate the Yahoo app or desktop version when making those crucial roster decisions:</p>
+                <p>Here’s a brief guide to help you navigate the Yahoo app or desktop version when making those crucial roster decisions:</p>
                 <div className="guide">
                     <div className="guide-section">
                         <h3>Mobile App Users</h3>
