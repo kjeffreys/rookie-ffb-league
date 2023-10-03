@@ -31,7 +31,7 @@ function WelcomeMessage()
                     <p>Welcome, folks, to the <strong>Rivalry of the Week</strong>— where less is more, and showing up is, well... optional? 😆 This isn't just any regular match-up. It's the clash of the Fantasy Football Phantom and the Master of Minimalism!</p>
                     <p>First up: Hanah. The rookie sensation we all aspired to be, consistently outpacing her projections and starting out on a 3 game win streak until falling short last week. But this week, she's facing the Bye-Week Monster. Can she pull some waiver wire wizardry to regain the momentum? Will there be enough room on that roster?</p>
                     <p>Then we have The Unit. Dave's busy diagnosing in med school while Rissa’s shaping young minds with speech therapy, and yet, their fantasy team has magically managed to win two games despite their absentee landlords. Clearly they’ve tapped into some Zen mastery, showing that sometimes, doing nothing is the best move!</p>
-                    <p>Will Hanah wire waivering overcome The Unit's zen calm, or will David and Rissa continue to accidentally (or is it?) show us how to win by doing the absolute minimum? It's Rookie Resourcefulness vs Medical Meditation!</p>
+                    <p>Will Hanah's wire waivering overcome The Unit's zen calm, or will David and Rissa continue to accidentally (or is it?) show us how to win by doing the absolute minimum? It's Rookie Resourcefulness vs Medical Meditation!</p>
                 </div>
 
                 <div className="game-preview">
