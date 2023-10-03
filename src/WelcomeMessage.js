@@ -8,55 +8,66 @@ function WelcomeMessage()
     return (
         <div className="container">
             <div className="header">
-                <h1>Week 3 Awards!</h1>
-                <h2><strong>👑Top Team Score</strong>: 165.56 pts -- Hanah's Nifty Team (Hanah's team, but you already knew that)</h2>
-                <h2><strong>👑Top Player Score</strong>: De'Von Achane -- 53.3 pts -- (no one had him, b/c that would be crazy as there was no indication he'd ever play until he did)</h2>
-                <h2><strong>👑Biggest Win</strong>: 34 pts -- Dean's Definitive Team (Dean)</h2>
-                <h2><strong>Fail Snail</strong>: Honestly most people beat or neared projections so we'll wait for a bigger flop in week 4. Fail harder if you want recognition!</h2>
+                <h1>Week 4 Awards!</h1>
+                <h2><strong>👑Top Team Score</strong>: 142.76 pts -- No Barkley No Bite (Bill)</h2>
+                <h2><strong>👑Top Player Score</strong>: Christian McCaffrey -- 45.2 pts -- Passion of the Christ(Ian) (Eric)</h2>
+                <h2><strong>👑Biggest Win</strong>:39 pts -- No Barkley No Bite (Bill)</h2>
+                <h2><strong>Fail Snail</strong>: Hanah's Nifty Team -- Hanah edged out Kyle with the biggest fail by 2 points, falling 26 points short of projection overall. With her first loss, Hanah continues to find victory!</h2>
                 <img src={snailGif} alt="Snail GIF" style={{ width: '100px', height: '100px' }} />
 
             </div>
 
             <section className="announcement">
-                <h2>Week 3 recap</h2>
-                <p>Had family in town and job stuff going on. My apologies for the delay. Bill and Hanah remain the undefeated monarchs of the league, almost everyone has received their first win (sorry Craig), and the season remains long. Be the tortoise, not a lousy hare.</p>
+                <h2>Week 4 recap</h2>
+                <p>Well, that was week 4. No doubt about it. Moving on!</p>
 
             </section>
             <section className='game-previews'>
-                <h2>Week 4 Game Previews</h2>
-                <p>Alright, now for the fun part! Here's a preview of the epic battles lined up for Week 4.</p>
-
+                <h2>Week 5 Game Previews</h2>
+                <p>Alright, now for the fun part! Here's a preview of the epic battles lined up for Week 5.</p>
                 <div className="game-preview">
-                    <p>🏈 <strong>El Duderino (Luke) (1-2) vs The Unit (Dave and Rissa) (1-2)</strong></p>
-                    <p><em>Projected Scores: 115.34 - 80.33</em></p>
-                    <p>Luke might have had the weaker running back in Thursday's game, but he's still the favorite in this match, mainly by showcasing a complete roster of eligible players. It's a bold strategy! But will it pay off?</p>
+                    <p>🏈 <strong>Hanah's Nifty Team (yup) (3-1) vs The Unit (Dave and Rissa) (2-2)</strong></p>
+                    <p><em>Projected Scores: 72 - 70</em></p>
+                    <p>Welcome, folks, to the <strong>Rivalry of the Week</strong>— where less is more, and showing up is, well... optional? 😆 This isn't just any regular match-up. It's the clash of the Fantasy Football Phantom and the Master of Minimalism!</p>
+                    <p>First up: Hanah. The rookie sensation we all aspired to be, consistently outpacing her projections and starting out on a 3 game win streak until falling short last week. But this week, she's facing the Bye-Week Monster. Can she pull some waiver wire wizardry to regain the momentum? Will there be enough room on that roster?</p>
+                    <p>Then we have The Unit. Dave's busy diagnosing in med school while Rissa’s shaping young minds with speech therapy, and yet, their fantasy team has magically managed to win two games despite their absentee landlords. Clearly they’ve tapped into some Zen mastery, showing that sometimes, doing nothing is the best move!</p>
+                    <p>Will Hanah wire waivering overcome The Unit's zen calm, or will David and Rissa continue to accidentally (or is it?) show us how to win by doing the absolute minimum? It's Rookie Resourcefulness vs Medical Meditation!</p>
                 </div>
 
                 <div className="game-preview">
-                    <p>🏈 <strong>The Maine Event (Craig) (0-3) vs Hanah's Nifty Team (guess who) (3-0)</strong></p>
-                    <p><em>Projected Scores: 112 - 114</em></p>
-                    <p>Hanah's team has been outperforming projections considerably, adding intrigue to this matchup. However, a challenging Thursday saw her two running backs almost negating each other. Contrastingly, Craig is still awaiting a stroke of luck, with his QB Goff securing a win primarily by abstaining from throwing. Both managers have a pivotal player languishing on injured reserve, adding another layer to the unfolding drama. Will projections, records, or any statistical insights have a say in this encounter?</p>
-                    <p>Seems unlikely</p>
+                    <p>🏈 <strong>The Passion of the Christ(Ian) (Eric) (3-1) vs Lucy's Head Coach (Kyle) (1-3)</strong></p>
+                    <p><em>Projected Scores: 110-108</em></p>
+                    <p>I may have given too much credit to Joe Burrow calling him bipedal after all. Thankfully for Eric, McCaffrey is apparently an arachnid, because that animal scored eight players worth of points by himself last week. A.J. Brown also got in on the metaphor, realizing he's an Eagle so his points flew high to the sky.</p>
+                    <p>Meanwhile, the only "Walker" on Kyle's team is on bye. If someone on his roster can't wear multiple hats as an exterminator and hunter for this match, it could turn ugly.</p>
+                    <p>Will Eric continue ascending in the rankings? Or will Kyle grow feet to plant and stop his slide?</p>
                 </div>
 
                 <div className="game-preview">
-                    <p>🏈 <strong>The Passion of the Christ(ian) (Eric) (2-1) vs Lucy's Mom has got it going on (Joanna) (1-2)</strong></p>
-                    <p><em>Projected Scores: 124 - 108</em></p>
-                    <p>Eric's stars like Burrow seem to be regrowing functional calves just in the nick of time for this matchup. Jo's stars are still stuck somewhere off the field, scootching along with walkers. Can Jo defy projections and and reclaim her winning ways? Or is the power of bipedal quarterbacks too strong? Stay tuned.</p>
+                    <p>🏈 <strong>Dean's Definitive Team (Dean) (1-3) vs Espresso LoPres(t)o (Alicen/Chris) (3-1)</strong></p>
+                    <p><em>Projected Scores: 98 - 102</em></p>
+                    <p>It was a good day in Buffalo last week, for players, the team, the fans, and these fantasy players. The LoPrestos had a mix of success with their roster, but Josh Allen lead their fantasy team and they will be hoping he can repeat that performance.</p>
+                    <p>On the flipside Dean's team laid dormant last week in defeat, but perhaps he's waiting in volcano fashion for a catastrophic upset.</p>
+                    <p>Will the underdog erupt? Or will the LoPrestos herd keep roaming strong?</p>
                 </div>
 
                 <div className="game-preview">
-                    <p>🏈 <strong>Dean's Definitive Team (Dean) (1-2) vs No Barkley No Bite (Bill) (3-0)</strong></p>
-                    <p><em>Projected Scores: 111 - 128</em></p>
-                    <p>Bill stumbled and proverbially stubbed his toe in the projections last week. But Kyle's defense was so bad they kept giving him negative points even after the week ended. Yes, really.</p>
-                    <p>So Bill marches on undefeated, walking right into the trap of Dean's team coming off their first victory. Underdog and momentum is a dangerous combo, but then again Juju Smith-Schuster is a bold play.</p>
-                    <p>Is bold the right word?</p>
+                    <p>🏈 <strong>No Barkley No Bite (Bill) (4-0) vs El Duderino(Luke) (1-3)</strong></p>
+                    <p><em>Projected Scores: 120 - 108</em></p>
+                    <p>Bill lives in New York and is a Giants fan last time I checked. But he has salvaged joy from the success of all his teams nemeses, watching their key players crush and bring his team to the now sole undefeated status in the league.
+                    </p>
+                    <p>
+                        Luke, a Virginia realtor, has been waiting for his star players like Patrick Mahomes to close on some victories.
+                    </p>
+                    <p>Will Bill continue to enjoy the paradox of fantasy loyalty vs real teams with another win? Or can Luke deal a bad loss during the first week of byes. </p>
                 </div>
+
                 <div className="game-preview">
-                    <p>🏈 <strong>Lucy's Head Coach (Kyle) (1-2) vs Espresso LoPres(t)o (LoPresto) (2-1)</strong></p>
-                    <p><em>Projected Scores: 117 - 108</em></p>
-                    <p>Kyle is reeling on a two game loss streak. He tried to stop the bleeding from Trevor Lawrence throwing to handless stubs of receivers with a trade offer for captain Kirk, but it seems impossible to obtain him from the Cousins (see what I did there). Thankfully Kyle enacted a new plan to pick up tight end, potentially sealing his fate in one play Thursday night with an injury to Luke MusGRAVE. The projections still look close, but it seems the LoPrestos are off to a big headstart, and right near the top of the standings with another win.</p>
+                    <p>🏈 <strong>Lucy's Mom has got it going on (Joanna) (1-3) vs The Maine Event (Craig) (1-3)</strong></p>
+                    <p><em>Projected Scores: 102 - 107</em></p>
+                    <p>From the scenic beauty of Maine, we have Craig, the 'lobster' of Week 4, who clawed his way to his first victory, breaking his shell and hoping to steamroll further (I avoided lobster Maine references as long as I could). As he eagerly anticipates the return of his favorite player, Cooper Kupp, he looks for this to be the turning tide for him.</p>
+                    <p>Meanwhile, Joanna is channeling all her skills to prep her team. Three narrow losses would test anyone’s resolve, but this mental health guru knows a thing or two about resilience. With stars emerging from her roster, she is looking to mindfully craft a healthy victory.</p>
                 </div>
+
 
 
 
