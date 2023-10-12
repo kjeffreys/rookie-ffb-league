@@ -8,70 +8,63 @@ function WelcomeMessage()
     return (
         <div className="container">
             <div className="header">
-                <h1>Week 4 Awards!</h1>
-                <h2><strong>👑Top Team Score</strong>: 142.76 pts -- No Barkley No Bite (Bill)</h2>
-                <h2><strong>👑Top Player Score</strong>: Christian McCaffrey -- 45.2 pts -- Passion of the Christ(Ian) (Eric)</h2>
-                <h2><strong>👑Biggest Win</strong>:39 pts -- No Barkley No Bite (Bill)</h2>
-                <h2><strong>Fail Snail</strong>: Hanah's Nifty Team -- Hanah edged out Kyle with the biggest fail by 2 points, falling 26 points short of projection overall. With her first loss, Hanah continues to find victory!</h2>
+                <h1>Week 5 Awards!</h1>
+                <h2><strong>👑Top Team Score</strong>: 151.78 pts -- The Passion of the Christ(Ian) (Eric)</h2>
+                <h2><strong>👑Top Player Score</strong>: DJ Moore -- 48 pts -- El Duderino (Luke)
+                    <em>(DJ, spinning more than just tracks this week! 🎵🌀)</em></h2>
+                <h2><strong>👑Biggest Win</strong>: 77.66 pts -- The Maine Event (Craig)
+                    <em>(The Lobster pot was boiling hot! 🦞🔥)</em></h2>
+                <h2><strong>Fail Snail</strong>: Lucy's Mom has got it going on -- 32 pts short of projections -- Joanna had her eye on the most important prize. A climb in the standings was of no concern compared to this top award. Well done honey.</h2>
                 <img src={snailGif} alt="Snail GIF" style={{ width: '100px', height: '100px' }} />
 
             </div>
 
             <section className="announcement">
-                <h2>Week 4 recap</h2>
-                <p>Well, that was week 4. No doubt about it. Moving on!</p>
+                <h2>Week 5 recap</h2>
+                <p>So many injuries. So many upsets! And so many upsetting injuries... The war of attrition is on!</p>
 
             </section>
             <section className='game-previews'>
-                <h2>Week 5 Game Previews</h2>
+                <h2>Week 6 Game Previews</h2>
                 <p>Alright, now for the fun part! Here's a preview of the epic battles lined up for Week 5.</p>
-                <div className="game-preview">
-                    <p>🏈 <strong>Hanah's Nifty Team (yup) (3-1) vs The Unit (Dave and Rissa) (2-2)</strong></p>
-                    <p><em>Projected Scores: 72 - 70</em></p>
-                    <p>Welcome, folks, to the <strong>Rivalry of the Week</strong>— where less is more, and showing up is, well... optional? 😆 This isn't just any regular match-up. It's the clash of the Fantasy Football Phantom and the Master of Minimalism!</p>
-                    <p>First up: Hanah. The rookie sensation we all aspired to be, consistently outpacing her projections and starting out on a 3 game win streak until falling short last week. But this week, she's facing the Bye-Week Monster. Can she pull some waiver wire wizardry to regain the momentum? Will there be enough room on that roster?</p>
-                    <p>Then we have The Unit. Dave's busy diagnosing in med school while Rissa’s shaping young minds with speech therapy, and yet, their fantasy team has magically managed to win two games despite their absentee landlords. Clearly they’ve tapped into some Zen mastery, showing that sometimes, doing nothing is the best move!</p>
-                    <p>Will Hanah's wire waivering overcome The Unit's zen calm, or will David and Rissa continue to accidentally (or is it?) show us how to win by doing the absolute minimum? It's Rookie Resourcefulness vs Medical Meditation!</p>
-                </div>
 
                 <div className="game-preview">
-                    <p>🏈 <strong>The Passion of the Christ(Ian) (Eric) (3-1) vs Lucy's Head Coach (Kyle) (1-3)</strong></p>
-                    <p><em>Projected Scores: 110-108</em></p>
-                    <p>I may have given too much credit to Joe Burrow calling him bipedal after all. Thankfully for Eric, McCaffrey is apparently an arachnid, because that animal scored eight players worth of points by himself last week. A.J. Brown also got in on the metaphor, realizing he's an Eagle so his points flew high to the sky.</p>
-                    <p>Meanwhile, the only "Walker" on Kyle's team is on bye. If someone on his roster can't wear multiple hats as an exterminator and hunter for this match, it could turn ugly.</p>
-                    <p>Will Eric continue ascending in the rankings? Or will Kyle grow feet to plant and stop his slide?</p>
-                </div>
-
-                <div className="game-preview">
-                    <p>🏈 <strong>Dean's Definitive Team (Dean) (1-3) vs Espresso LoPres(t)o (Alicen/Chris) (3-1)</strong></p>
-                    <p><em>Projected Scores: 98 - 102</em></p>
-                    <p>It was a good day in Buffalo last week, for players, the team, the fans, and these fantasy players. The LoPrestos had a mix of success with their roster, but Josh Allen lead their fantasy team and they will be hoping he can repeat that performance.</p>
-                    <p>On the flipside Dean's team laid dormant last week in defeat, but perhaps he's waiting in volcano fashion for a catastrophic upset.</p>
-                    <p>Will the underdog erupt? Or will the LoPrestos herd keep roaming strong?</p>
-                </div>
-
-                <div className="game-preview">
-                    <p>🏈 <strong>No Barkley No Bite (Bill) (4-0) vs El Duderino(Luke) (1-3)</strong></p>
-                    <p><em>Projected Scores: 120 - 108</em></p>
-                    <p>Bill lives in New York and is a Giants fan last time I checked. But he has salvaged joy from the success of all his teams nemeses, watching their key players crush and bring his team to the now sole undefeated status in the league.
+                    <p>🏈 <strong>Lucy's Head Coach (Kyle) (1-4) vs The Maine Event (Craig) (2-3)</strong></p>
+                    <p><em>Projected Scores:</em> 120 to 119</p>
+                    <p>Should be close 🧐. Craig is on a two-game win streak 🚀 and recovered his early season dead stars 💫. But can Kyle remind him that gravity is relentless 🪐? (Hitting them with the astrophysics jokes 🤣! Make sure to delete this part before they see what my first recaps look like 🤫)
                     </p>
-                    <p>
-                        Luke, a Virginia realtor, has been waiting for his star players like Patrick Mahomes to close on some victories.
-                    </p>
-                    <p>Will Bill continue to enjoy the paradox of fantasy loyalty vs real teams with another win? Or can Luke deal a bad loss during the first week of byes. </p>
+
                 </div>
 
                 <div className="game-preview">
-                    <p>🏈 <strong>Lucy's Mom has got it going on (Joanna) (1-3) vs The Maine Event (Craig) (1-3)</strong></p>
-                    <p><em>Projected Scores: 102 - 107</em></p>
-                    <p>From the scenic beauty of Maine, we have Craig, the 'lobster' of Week 4, who clawed his way to his first victory, breaking his shell and hoping to steamroll further (I avoided lobster Maine references as long as I could). As he eagerly anticipates the return of his favorite player, Cooper Kupp, he looks for this to be the turning tide for him.</p>
-                    <p>Meanwhile, Joanna is channeling all her skills to prep her team. Three narrow losses would test anyone’s resolve, but this mental health guru knows a thing or two about resilience. With stars emerging from her roster, she is looking to mindfully craft a healthy victory.</p>
+                    <p>🏈 <strong>Dean's Definitive Team (Dean) (2-3) vs The Passion of the Christ(Ian) (Eric) </strong></p>
+                    <p><em>Projected Scores:</em> 110 to 121</p>
+                    <p>Both managers embarked on a fantasy voyage, but only one can steer the ship back to the cherished Isle of Victory 🏝️.
+                    </p>
                 </div>
 
+                <div className="game-preview">
+                    <p>🏈 <strong>No Barkley All Bite (Bill) (4-1) vs The Unit (David and Carissa) (2-3)</strong></p>
+                    <p><em>Projected Scores:</em> 121 to 70</p>
+                    <p>Bill, the gentle giant of the league, whose approach to the game is as kind as it is strategic, is peering down a seemingly breezy path 🌬️ against The Unit, whose management has been a bit... laissez-faire 🙃. Can The Unit muster a miracle ✨, or will Bill politely tiptoe 🩰 to another victory 🏆?</p>
+                </div>
 
+                <div className="game-preview">
+                    <p>🏈 <strong>Lucy's Mom has got it going on (Joanna) (1-4) vs Hanah's Nifty Team (Hanah) (4-1)</strong></p>
+                    <p><em>Projected Scores:</em> 102 to 111</p>
+                    <p>In a heartwarming matchup, childhood pals clash in a battlefield of pleasantries. Expect polite tackles and courteous touchdowns as one lifelong friend might just gift-wrap a win for the other. 🎁🏈</p>
+                </div>
 
+                <div className="game-preview">
+                    <p>🏈 <strong>Espresso LoPres(t)o (The LoPrestos) (3-2) vs El Duderino (Luke) (2-3)</strong></p>
+                    <p><em>Projected Scores:</em> 116 to 114</p>
+                    <p>From the shivering plains of Buffalo, The LoPrestos look to steamroll through Luke, who’s just buzzed off his recent royal takedown. Will the northerners freeze him out, or will Luke serve them a bitter defeat to mull over? 🌨️☕</p>
 
-                <p> Keep up the good fight all! I'll keep the information from below in case anyone needs it. Also message in yahoo chat and people in the app's chat can see/give advice/ignore you like they ignore my wonderful recaps! Good luck!</p>
+                </div>
+
+                <p>Remember, even rushed previews have a special place in our (my) heart(s)! ❤️ Good luck surviving Week 6! 🍀
+
+                </p>
             </section>
             <section className="announcement">
                 <h2>Player Lineups and Roster Changes</h2>
