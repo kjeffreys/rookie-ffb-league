@@ -37,7 +37,7 @@ function WelcomeMessage()
                 </div>
 
                 <div className="game-preview">
-                    <p>🏈 <strong>Dean's Definitive Team (Dean) (2-3) vs The Passion of the Christ(Ian) (Eric) </strong></p>
+                    <p>🏈 <strong>Dean's Definitive Team (Dean) (2-3) vs The Passion of the Christ(Ian) (Eric) (4-1)</strong></p>
                     <p><em>Projected Scores:</em> 110 to 121</p>
                     <p>Both managers embarked on a fantasy voyage, but only one can steer the ship back to the cherished Isle of Victory 🏝️.
                     </p>
