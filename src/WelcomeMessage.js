@@ -9,12 +9,12 @@ function WelcomeMessage()
         <div className="container">
             <div className="header">
                 <h1>Week 6 Awards!</h1>
-                <h2><strong>👑Top Team Score</strong>: 151.78 pts -- The Passion of the Christ(Ian) (Eric)</h2>
-                <h2><strong>👑Top Player Score</strong>: DJ Moore -- 48 pts -- El Duderino (Luke)
-                    <em>(DJ, spinning more than just tracks this week! 🎵🌀)</em></h2>
-                <h2><strong>👑Biggest Win</strong>: 77.66 pts -- The Maine Event (Craig)
-                    <em>(The Lobster pot was boiling hot! 🦞🔥)</em></h2>
-                <h2><strong>Fail Snail</strong>: Lucy's Mom has got it going on -- 32 pts short of projections -- Joanna had her eye on the most important prize. A climb in the standings was of no concern compared to this top award. Well done honey.</h2>
+                <h2><strong>👑Top Team Score</strong>: 134.06 pts -- Espresso LoPres(t)o</h2>
+                <h2><strong>👑Top Player Score</strong>: Raheem Mostert -- 33.7 pts
+                </h2>
+                <h2><strong>👑Biggest Win</strong>: 61.78 pts -- No Barkley All Bite (Bill)
+                </h2>
+                <h2><strong>Fail Snail</strong>: Lucy's Head Coach (Kyle) -- 30 pts short of projections 🐌</h2>
                 <img src={snailGif} alt="Snail GIF" style={{ width: '100px', height: '100px' }} />
 
             </div>
@@ -43,25 +43,25 @@ function WelcomeMessage()
                 <div className="game-preview">
                     <p>🏈 <strong>No Barkley All Bite (5-1-0 | 1st) vs Hanah's Nifty Team (5-1-0 | 2nd)</strong></p>
                     <p><em>Projected Scores:</em> 107.41 to 115.14</p>
-                    <p>The top two giants of the league are going head to head! This will be a showdown for the ages. Can Hanah edge out Bill, or will No Barkley All Bite continue their winning streak? 🌟</p>
+                    <p>While the rest of us thought we were kids in a candy shop, Bill and Hanah just bulldozed the place with the kids inside. Now they will have to see what happens when they matchup against another great power and determine the frontrunner of the league. </p>
                 </div>
 
                 <div className="game-preview">
                     <p>🏈 <strong>The Passion of the Christ(ian) (4-2-0 | 3rd) vs El Duderino (2-4-0 | 7th)</strong></p>
                     <p><em>Projected Scores:</em> 116.53 to 103.92</p>
-                    <p>El Duderino is looking to break their losing streak, but The Passion of the Christ(ian) is a formidable opponent. Will it be redemption for El Duderino, or another win for The Passion of the Christ(ian)? 📜</p>
+                    <p>El Duderino needs a little less chill, while Eric has the passion but maybe a little less Christian McCaffrey this week.</p>
                 </div>
 
                 <div className="game-preview">
                     <p>🏈 <strong>Espresso LoPres(t)o (4-2-0 | 4th) vs The Unit (Dave and Rissa) (2-4-0 | 8th)</strong></p>
                     <p><em>Projected Scores:</em> 103.17 to 77.57</p>
-                    <p>Espresso LoPres(t)o seems poised for victory with a strong projected lead. However, The Unit might just have some surprises in store. Will the LoPrestos keep their steam, or will The Unit make a comeback? ☕🚂</p>
+                    <p>Espresso LoPres(t)o seems poised for victory with a strong projected lead. Can The Unit's phantom team pull a Halloween upset? Or ill the LoPrestos keep their steam? </p>
                 </div>
 
 
-                <p>Remember, even rushed previews have a special place in our (my) heart(s)! ❤️ Good luck surviving Week 6! 🍀
-
+                <p>Best of luck to all in week 7!
                 </p>
+
             </section>
             <section className="announcement">
                 <h2>Player Lineups and Roster Changes</h2>
