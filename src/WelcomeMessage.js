@@ -21,7 +21,7 @@ function WelcomeMessage()
 
             <section className="announcement">
                 <h2>Week 6 recap</h2>
-                <p>I've secured last place in my own league. Try to outfail that snail!</p>
+                <p>So...many...injuries</p>
 
             </section>
             <section className='game-previews'>
@@ -31,7 +31,7 @@ function WelcomeMessage()
                 <div className="game-preview">
                     <p>🏈 <strong>Lucy's Head Coach (1-5-0 | 10th) vs Lucy's Mom has got it going on (1-5-0 | 9th)</strong></p>
                     <p><em>Projected Scores:</em> 107.87 to 99.77</p>
-                    <p>Lucy's Head Coach is looking for redemption but Lucy's Mom has got some tricks up her sleeve. Can Kyle pull off an upset, or will Joanna prove that experience is the key? 🔐</p>
+                    <p>In the most wholesome showdown ever, the sweetest couple in the league faces off! Who will win? Who cares! Either way, Lucy's family takes home the victory. 🥰</p>
                 </div>
 
                 <div className="game-preview">
