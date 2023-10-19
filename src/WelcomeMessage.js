@@ -55,7 +55,7 @@ function WelcomeMessage()
                 <div className="game-preview">
                     <p>🏈 <strong>Espresso LoPres(t)o (4-2-0 | 4th) vs The Unit (Dave and Rissa) (2-4-0 | 8th)</strong></p>
                     <p><em>Projected Scores:</em> 103.17 to 77.57</p>
-                    <p>Espresso LoPres(t)o seems poised for victory with a strong projected lead. Can The Unit's phantom team pull a Halloween upset? Or ill the LoPrestos keep their steam? </p>
+                    <p>Espresso LoPres(t)o seems poised for victory with a strong projected lead. Can The Unit's phantom team pull a Halloween upset? Or will the LoPrestos keep their steam? </p>
                 </div>
 
 
