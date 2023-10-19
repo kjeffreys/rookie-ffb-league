@@ -10,11 +10,11 @@ function WelcomeMessage()
             <div className="header">
                 <h1>Week 6 Awards!</h1>
                 <h2><strong>👑Top Team Score</strong>: 134.06 pts -- Espresso LoPres(t)o</h2>
-                <h2><strong>👑Top Player Score</strong>: Raheem Mostert -- 33.7 pts
+                <h2><strong>👑Top Player Score</strong>: Raheem Mostert -- 33.7 pts -- Espresso Lopres(t)o
                 </h2>
-                <h2><strong>👑Biggest Win</strong>: 61.78 pts -- No Barkley All Bite (Bill)
+                <h2><strong>👑Biggest Win</strong>: 61.78 pts -- No Barkley All Bite
                 </h2>
-                <h2><strong>Fail Snail</strong>: Lucy's Head Coach (Kyle) -- 30 pts short of projections 🐌</h2>
+                <h2><strong>Fail Snail</strong>: Lucy's Head Coach -- 30 pts short of projections 🐌</h2>
                 <img src={snailGif} alt="Snail GIF" style={{ width: '100px', height: '100px' }} />
 
             </div>
