@@ -28,8 +28,8 @@ function WelcomeMessage()
             </section>
             <section className='game-previews'>
                 <h2>Week 8 Game Previews</h2>
-                <p>Alright, now for the fun part! Here's a preview of the epic battles lined up for Week 5.</p>
-                <p>One of the downsides of getting doing previews by Tuesday is no one has set lineups and the predictions are way off. One of the fun parts is <em>is no one has set lineups and the predictions are way off.</em> <strong>Onward!</strong>
+                <p>Alright, now for the fun part! Here's a preview of the epic battles lined up for Week 8!</p>
+                <p>...one of the downsides of getting doing previews by Tuesday is no one has set lineups and the predictions are way off. One of the fun parts is <em>is no one has set lineups and the predictions are way off.</em> <strong>Onward!</strong>
                 </p>
 
                 <div className="game-preview">
