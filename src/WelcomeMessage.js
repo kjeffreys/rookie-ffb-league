@@ -29,7 +29,7 @@ function WelcomeMessage()
             <section className='game-previews'>
                 <h2>Week 8 Game Previews</h2>
                 <p>Alright, now for the fun part! Here's a preview of the epic battles lined up for Week 8!</p>
-                <p>...one of the downsides of getting doing previews by Tuesday is no one has set lineups and the predictions are way off. One of the fun parts is <em>is no one has set lineups and the predictions are way off.</em> <strong>Onward!</strong>
+                <p>...one of the downsides of getting doing previews by Tuesday is no one has set lineups and the predictions are way off. One of the fun parts is <em> no one has set lineups and the predictions are way off.</em> <strong>Onward!</strong>
                 </p>
 
                 <div className="game-preview">
@@ -54,15 +54,14 @@ function WelcomeMessage()
                 <div className="game-preview">
                     <p>🏈 <strong>The Passion of the Christ(ian) (4-3-0 | 4th) vs The Unit (Dave and Rissa) (2-5-0 | 9th)</strong></p>
                     <p><em>Projected Scores:</em> 120.31 to 99.06</p>
-                    <p>The Unit plays half a team</p>
+                    <p>The Unit played half a team</p>
                     <p>Eric played half a running back</p>
-                    <p>Both teams nearly got away with it! Will Eric kick some <em>Butker</em> Or he is ripe for <em>Pickens</em>?</p>
+                    <p>Both teams nearly got away with it! Will Eric kick some <em>Butker</em>? Or he is ripe for <em>Pickens</em>?</p>
                 </div>
 
                 <div className="game-preview">
                     <p>🏈 <strong>The Maine Event (3-4-0 | 6th) vs El Duderino (3-4-0 | 7th)</strong></p>
-                    <p><em>Projected Scores:</em> 114.00
-                    </p>
+                    <p><em>Projected Scores:</em> 114 to 112.45</p>
                     <p>
                         Luke called <em>Gibbs</em> on a resounding win last week
                     </p>
