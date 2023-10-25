@@ -66,7 +66,7 @@ function WelcomeMessage()
                         Luke called <em>Gibbs</em> on a resounding win last week
                     </p>
                     <p>While Craig was left with a <em>Kupp</em> half empty ... or full? Because now this matchup is a little more interesting with a tie in the standings!</p>
-                    <p>Will Craig be King of the <em>Hill</em>? Or will Luke celebrate with <em>Mahomes</em>?</p>
+                    <p>Will Craig be King of the <em>Hill</em>? Or will Luke celebrate with <em>Mahomes</em>? (or Hishomes?)</p>
 
                 </div>
 
