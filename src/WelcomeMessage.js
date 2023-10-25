@@ -8,60 +8,84 @@ function WelcomeMessage()
     return (
         <div className="container">
             <div className="header">
-                <h1>Week 6 Awards!</h1>
-                <h2><strong>👑Top Team Score</strong>: 134.06 pts -- Espresso LoPres(t)o</h2>
-                <h2><strong>👑Top Player Score</strong>: Raheem Mostert -- 33.7 pts -- Espresso Lopres(t)o
+                <h1>Week 7 Awards!</h1>
+                <h2><strong>👑Top Team Score</strong>: 144.56 pts -- Dean's Definitive Team
                 </h2>
-                <h2><strong>👑Biggest Win</strong>: 61.78 pts -- No Barkley All Bite
+                <h2><strong>👑Top Player Score</strong>: Patrick Mahomes -- 35.86 pts -- El Duderino
                 </h2>
-                <h2><strong>Fail Snail</strong>: Lucy's Head Coach -- 30 pts short of projections 🐌</h2>
+                <h2><strong>👑Biggest Win</strong>: 28.26 pts -- El Duderino
+                </h2>
+                <h2><strong>Fail Snail</strong>: Lucy's Mom has got it going on -- Joanna fell 27 pts short of projection, injuries... 🐌</h2>
                 <img src={snailGif} alt="Snail GIF" style={{ width: '100px', height: '100px' }} />
 
             </div>
 
             <section className="announcement">
-                <h2>Week 6 recap</h2>
-                <p>So...many...injuries</p>
+                <h2>Week 7 recap</h2>
+                <p>What an exciting week that was! By far the more changes in lead and the closest matches of a week so far. Perhaps our parity will only intensify?</p>
+                <p>Methinks <em>not</em></p>
+
 
             </section>
             <section className='game-previews'>
-                <h2>Week 7 Game Previews</h2>
+                <h2>Week 8 Game Previews</h2>
                 <p>Alright, now for the fun part! Here's a preview of the epic battles lined up for Week 5.</p>
-
-                <div className="game-preview">
-                    <p>🏈 <strong>Lucy's Head Coach (1-5-0 | 10th) vs Lucy's Mom has got it going on (1-5-0 | 9th)</strong></p>
-                    <p><em>Projected Scores:</em> 107.87 to 99.77</p>
-                    <p>In the most wholesome showdown ever, the sweetest couple in the league faces off! Who will win? Who cares! Either way, Lucy's family takes home the victory. 🥰</p>
-                </div>
-
-                <div className="game-preview">
-                    <p>🏈 <strong>Dean's Definitive Team (3-3-0 | 6th) vs The Maine Event (3-3-0 | 5th)</strong></p>
-                    <p><em>Projected Scores:</em> 106.09 to 110.28</p>
-                    <p>Dean and The Maine Event are neck and neck in the rankings. This matchup will surely be a defining moment for both teams as they vie for dominance. 🏆</p>
-                </div>
-
-                <div className="game-preview">
-                    <p>🏈 <strong>No Barkley All Bite (5-1-0 | 1st) vs Hanah's Nifty Team (5-1-0 | 2nd)</strong></p>
-                    <p><em>Projected Scores:</em> 107.41 to 115.14</p>
-                    <p>While the rest of us thought we were kids in a candy shop, Bill and Hanah just bulldozed the place with the kids inside. Now they will have to see what happens when they matchup against another great power and determine the frontrunner of the league. </p>
-                </div>
-
-                <div className="game-preview">
-                    <p>🏈 <strong>The Passion of the Christ(ian) (4-2-0 | 3rd) vs El Duderino (2-4-0 | 7th)</strong></p>
-                    <p><em>Projected Scores:</em> 116.53 to 103.92</p>
-                    <p>El Duderino needs a little less chill, while Eric has the passion but maybe a little less Christian McCaffrey this week.</p>
-                </div>
-
-                <div className="game-preview">
-                    <p>🏈 <strong>Espresso LoPres(t)o (4-2-0 | 4th) vs The Unit (Dave and Rissa) (2-4-0 | 8th)</strong></p>
-                    <p><em>Projected Scores:</em> 103.17 to 77.57</p>
-                    <p>Espresso LoPres(t)o seems poised for victory with a strong projected lead. Can The Unit's phantom team pull a Halloween upset? Or will the LoPrestos keep their steam? </p>
-                </div>
-
-
-                <p>Best of luck to all in week 7!
+                <p>One of the downsides of getting doing previews by Tuesday is no one has set lineups and the predictions are way off. One of the fun parts is <em>is no one has set lineups and the predictions are way off.</em> <strong>Onward!</strong>
                 </p>
 
+                <div className="game-preview">
+                    <p>🏈 <strong>Dean's Definitive Team (4-3-0 | 5th) vs Lucy's Mom has got it going on (1-6-0 | 10th)</strong></p>
+                    <p><em>Projected Scores:</em> 99.50 to 98.94</p>
+                    <p>Dean managed to re<em>Grupe</em> and had his opponent eating out of the <em>Palmer</em> his hand last week with a huge win last week. The biggest win in fact.
+                    </p>
+                    <p>Meanwhile, Joanna's star RB has been more heckler than <em>Eckler</em> with a lame ankle.
+                    </p>
+                    <p>Will Joanna's team rebound? Or be a <em>Lamb</em> to the slaughter? Tune in for the epic father-daughter battle!</p>
+                </div>
+
+                <div className="game-preview">
+                    <p>🏈 <strong>No Barkley All Bite (5-2-0 | 2nd) vs Espresso LoPres(t)o (5-2-0 | 3rd)</strong></p>
+                    <p><em>Projected Scores:</em> 120.98 to 105.95</p>
+                    <p>Bill limped away from last week's bout in a narrow defeat, but he's looking to <em>Waddle</em> his way back to the top!
+                    </p>
+                    <p>Alternatively, the LoPresto's are still on a hot streak, and they are looking to <em>Cook</em> up another <em>Rice</em> victory!</p>
+                    <p>Keep an eye on this one, the winner is vying for the top of the standings!</p>
+                </div>
+
+                <div className="game-preview">
+                    <p>🏈 <strong>The Passion of the Christ(ian) (4-3-0 | 4th) vs The Unit (Dave and Rissa) (2-5-0 | 9th)</strong></p>
+                    <p><em>Projected Scores:</em> 120.31 to 99.06</p>
+                    <p>The Unit plays half a team</p>
+                    <p>Eric played half a running back</p>
+                    <p>Both teams nearly got away with it! Will Eric kick some <em>Butker</em> Or he is ripe for <em>Pickens</em>?</p>
+                </div>
+
+                <div className="game-preview">
+                    <p>🏈 <strong>The Maine Event (3-4-0 | 6th) vs El Duderino (3-4-0 | 7th)</strong></p>
+                    <p><em>Projected Scores:</em> 114.00
+                    </p>
+                    <p>
+                        Luke called <em>Gibbs</em> on a resounding win last week
+                    </p>
+                    <p>While Craig was left with a <em>Kupp</em> half empty ... or full? Because now this matchup is a little more interesting with a tie in the standings!</p>
+                    <p>Will Craig be King of the <em>Hill</em>? Or will Luke celebrate with <em>Mahomes</em>?</p>
+
+                </div>
+
+
+                <p>Best of luck to all in week 8!
+                </p>
+
+                <div className="game-preview">
+                    <p>🏈 <strong>Lucy's Head Coach (2-5-0 | 8th) vs Hanah's Nifty Team (6-1-0 | 1st)</strong></p>
+                    <p><em>Projected Scores:</em> 107.25 to 118.52</p>
+                    <p>Hanah may be the best manager in the league right now, but she almost lost without her Foreman at the helm last week. That said, I'm not sure if Hanah is a Swiftee, but she's probably a Kelcee after he singlehandedly saved the day and helped her take sole possession of first place.</p>
+                    <p>On the flip side, Kyle has been having some wholesome, quality bonding time with Joanna in the 'basement' of the standings. And this week he's hoping he can bounce back if his first round draft pick running back can recover from an unannounced...headache? Maybe a little pep talk or a soothing lullaby? Perhaps Joanna and Kyle's cozy matchup will bring him peace.</p>
+                    <p>
+                        Either way! This David vs Goliath matchup is sure to have us on the edge of our seats!
+
+                    </p>
+                </div>
             </section>
             <section className="announcement">
                 <h2>Player Lineups and Roster Changes</h2>
