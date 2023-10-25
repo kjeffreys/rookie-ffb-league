@@ -83,9 +83,9 @@ function WelcomeMessage()
                     <p>On the flip side, Kyle has been having some wholesome, quality bonding time with Joanna in the 'basement' of the standings. And this week he's hoping he can bounce back if his first round draft pick running back can recover from an unannounced...headache? Maybe a little pep talk or a soothing lullaby? Perhaps Joanna and Kyle's cozy matchup will bring him peace.</p>
                     <p>
                         Either way! This David vs Goliath matchup is sure to have us on the edge of our seats!
-
                     </p>
                 </div>
+
             </section>
             <section className="announcement">
                 <h2>Player Lineups and Roster Changes</h2>
