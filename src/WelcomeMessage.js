@@ -22,9 +22,8 @@ function WelcomeMessage()
 
             <section className="announcement">
                 <h2>Week 7 recap</h2>
-                <p>What an exciting week that was! By far the more changes in lead and the closest matches of a week so far. Perhaps our parity will only intensify?</p>
-                <p>Methinks <em>not</em></p>
-
+                <p>What an exciting week! By far the most changes in gametime leads, and the closest matches of a week so far. Perhaps our parity will only intensify?</p>
+                <p>But methinks not</p>
 
             </section>
             <section className='game-previews'>
