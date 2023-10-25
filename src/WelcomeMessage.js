@@ -70,10 +70,6 @@ function WelcomeMessage()
 
                 </div>
 
-
-                <p>Best of luck to all in week 8!
-                </p>
-
                 <div className="game-preview">
                     <p>🏈 <strong>Lucy's Head Coach (2-5-0 | 8th) vs Hanah's Nifty Team (6-1-0 | 1st)</strong></p>
                     <p><em>Projected Scores:</em> 107.25 to 118.52</p>
@@ -83,6 +79,10 @@ function WelcomeMessage()
                         Either way! This David vs Goliath matchup is sure to have us on the edge of our seats!
                     </p>
                 </div>
+
+                <p>
+                    Best of luck to all in week 8!
+                </p>
 
             </section>
             <section className="announcement">
