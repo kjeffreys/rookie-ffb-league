@@ -15,7 +15,7 @@ function WelcomeMessage()
                 </h2>
                 <h2><strong>👑Biggest Win</strong>: 60.74 pts -- The Passion of the Christ(ian)
                 </h2>
-                <h2><strong>Fail Snail</strong>: The Maine Event -- Joanna fell 29.98 pts short of projection, brutal injuries... 🐌</h2>
+                <h2><strong>Fail Snail</strong>: The Maine Event -- Craig fell 29.98 pts short of projection, brutal injuries... 🐌</h2>
                 <img src={snailGif} alt="Snail GIF" style={{ width: '100px', height: '100px' }} />
 
             </div>
