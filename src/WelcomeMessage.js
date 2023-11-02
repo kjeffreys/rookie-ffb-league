@@ -60,7 +60,7 @@ function WelcomeMessage()
                     <p>🏈 <strong>The Maine Event (3-5-0 | 7th) vs The Unit (Dave and Rissa) (2-6-0 | 10th)</strong></p>
                     <p><em>Projected Scores:</em> 77.18 to 89.74</p>
                     <p>
-                        Dave and Carissa regained control of their lineup last week. But it wasn't enough to overcome key injuries. A tale Craig had to endure indirectly to his key stars. Someone will be granted a kindness and mercy with a victory this week, but who? Whom? Who...
+                        Dave and Carissa regained control of their lineup last week. But it wasn't enough to overcome key injuries. A tale Craig had to endure indirectly to his key stars. Someone will be granted a kindness and mercy with a victory this week, but who? Whom? Who...m
                     </p>
                 </div>
 
