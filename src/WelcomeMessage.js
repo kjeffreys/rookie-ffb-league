@@ -46,7 +46,7 @@ function WelcomeMessage()
                 <div className="game-preview">
                     <p>🏈 <strong>Lucy's Mom has got it going on (2-6-0 | 9th) vs El Duderino (4-4-0 | 6th)</strong></p>
                     <p><em>Projected Scores:</em> 86.39 to 86.94</p>
-                    <p>Youngest vs oldest. Sibling vs sibling. Parent vs parent. Remarkable achiever vs remarkable achiever. etc.
+                    <p>Sibling vs sibling. Youngest vs oldest. Parent vs parent. Remarkable achiever vs remarkable achiever. Blond beauty vs blond beauty.
                     </p>
                 </div>
 
