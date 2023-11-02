@@ -53,7 +53,7 @@ function WelcomeMessage()
                 <div className="game-preview">
                     <p>🏈 <strong>Espresso LoPres(to) (5-3-0 | 4th) vs Hanah's Nifty Team (5-2-0 | 2nd)</strong></p>
                     <p><em>Projected Scores:</em> 98.82 to 111.45</p>
-                    <p>Hanah held the fleeting top spot for one sweet week and then it was gone! Will she reclaim it this week? Alicen and Chris have an espressNO to that about that!</p>
+                    <p>Hanah held the fleeting top spot for one sweet week and then it was gone! Will she reclaim it this week? Alicen and Chris have an espressNO to say about that!</p>
                 </div>
 
                 <div className="game-preview">
