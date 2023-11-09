@@ -52,7 +52,7 @@ function WelcomeMessage()
                     <p>🏈 <strong>Lucy's Head Coach (3-6-0 | 9th) vs El Duderino (4-5-0 | 7th)</strong></p>
                     <p><em>Projected Scores:</em> 105.00 to 67.56</p>
                     <p>Luke and Kyle...who's points look more like the years of 20th century wars than winning scores of late... /p>
-                    <p>But someone will win. So, yea!</p>
+                        <p>But someone will win. So, yea!</p>
                 </div>
                 <div className="game-preview">a
                     <p>🏈 <strong>Dean's Definitive Team (5-4-0 | 5th) vs Hannah's Nifty Team (6-3-0 | 4th)</strong></p>
@@ -64,57 +64,19 @@ function WelcomeMessage()
                     Best of luck to all in week 10!
                 </p>
 
-            </section>
-            <section className="announcement">
-                <h2>Player Lineups and Roster Changes</h2>
-                <p>Here’s a brief guide to help you navigate the Yahoo app or desktop version when making those crucial roster decisions:</p>
-                <div className="guide">
-                    <div className="guide-section">
-                        <h3>Mobile App Users</h3>
-                        <ul>
-                            <li>Go to 'Roster'</li>
-                            <li>Click on a player</li>
-                            <li>Swap between starters and bench players as necessary</li>
-                        </ul>
-                    </div>
-                    <div className="guide-section">
-                        <h3>Desktop Users</h3>
-                        <ul>
-                            <li>Hover over 'My Team'</li>
-                            <li>Click 'Roster'</li>
-                            <li>Select the 'Game Day Decision' tab to switch between starters and bench players</li>
-                        </ul>
-                    </div>
-                </div>
-            </section>
 
-            <section className='communications-channel'>
-                <h2>Communication Channels</h2>
-                <p>Feel free to reach out with any questions or concerns at kjeffreyscs@gmail.com or simply drop a message in the Yahoo chat. Doing so will send an email notification my way. Remember, the app allows you to indulge in friendly banter (or fiery discussions, wink wink) during the games.</p>
-            </section>
 
-            <section className="team-name-change-instructions">
-                <h2>Changing Your Team Name</h2>
-                <p>If you wish to spice things up a bit by changing your team name, follow these steps:</p>
-                <ul>
-                    <li>Navigate to 'My Team'</li>
-                    <li>Click 'Edit Team Info'</li>
-                    <li>Enter your cool new name in the dialog box that appears</li>
-                </ul>
-                <p>And don't fret about anonymity, your real name will be displayed alongside your team name to avoid any confusion.</p>
-            </section>
+                <section>
+                    <h2>Injured Reserve Note</h2>
+                    <p>If you have players with red letters next to them, they may be IR eligible. If they are just questionable and might play, or after a certain amount of weeks, they are not. But while they are, you can essentially put two people on a special IR bench for players who cannot play due to injury for a few weeks. This way, you have extra spots on your team while you pick up other players for current matches.</p>
 
-            <section>
-                <h2>Injured Reserve Note</h2>
-                <p>If you have players with red letters next to them, they may be IR eligible. If they are just questionable and might play, or after a certain amount of weeks, they are not. But while they are, you can essentially put two people on a special IR bench for players who cannot play due to injury for a few weeks. This way, you have extra spots on your team while you pick up other players for current matches.</p>
+                    <p>However, this feature is reserved exclusively for injured players. If you're uncertain, try placing up to two players with red letters next to their names on IR. If the option isn't available, they are not eligible, indicating that they are likely a game-time decision and might still play. Feel free to message me if you're unsure about a specific player's eligibility or need assistance with this feature.</p>
+                </section>
 
-                <p>However, this feature is reserved exclusively for injured players. If you're uncertain, try placing up to two players with red letters next to their names on IR. If the option isn't available, they are not eligible, indicating that they are likely a game-time decision and might still play. Feel free to message me if you're unsure about a specific player's eligibility or need assistance with this feature.</p>
-            </section>
-
-            <footer>
-                <p>Gear up and may the best teams win! Let's get this season rolling!</p>
-                <p>Best,<br />Kyle, Your Dedicated Commissioner</p>
-            </footer>
+                <footer>
+                    <p>Gear up and may the best teams win! Let's get this season rolling!</p>
+                    <p>Best,<br />Kyle, Your Dedicated Commissioner</p>
+                </footer>
         </div>
     );
 }
