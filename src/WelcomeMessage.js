@@ -51,32 +51,35 @@ function WelcomeMessage()
                 <div className="game-preview">
                     <p>🏈 <strong>Lucy's Head Coach (3-6-0 | 9th) vs El Duderino (4-5-0 | 7th)</strong></p>
                     <p><em>Projected Scores:</em> 105.00 to 67.56</p>
-                    <p>Luke and Kyle...who's points look more like the years of 20th century wars than winning scores of late... /p>
-                        <p>But someone will win. So, yea!</p>
+                    <p>Luke and Kyle...who's points look more like the years of 20th century wars than winning scores of late...
+
+                    </p>
+                    <p>But someone will win. So, yea!</p>
                 </div>
-                <div className="game-preview">a
+                <div className="game-preview">
                     <p>🏈 <strong>Dean's Definitive Team (5-4-0 | 5th) vs Hannah's Nifty Team (6-3-0 | 4th)</strong></p>
                     <p><em>Projected Scores:</em> 105.65 to 114.61</p>
                     <p>Picture one gladiator who clobbers his crippled son-in-law with a mace, and one other viking who burns her gracious hosts hospitable offerings to cinders. And now they get to face each other! </p>
                 </div>
+            </section>
 
-                <p>
-                    Best of luck to all in week 10!
-                </p>
+            <p>
+                Best of luck to all in week 10!
+            </p>
 
 
 
-                <section>
-                    <h2>Injured Reserve Note</h2>
-                    <p>If you have players with red letters next to them, they may be IR eligible. If they are just questionable and might play, or after a certain amount of weeks, they are not. But while they are, you can essentially put two people on a special IR bench for players who cannot play due to injury for a few weeks. This way, you have extra spots on your team while you pick up other players for current matches.</p>
+            <section>
+                <h2>Injured Reserve Note</h2>
+                <p>If you have players with red letters next to them, they may be IR eligible. If they are just questionable and might play, or after a certain amount of weeks, they are not. But while they are, you can essentially put two people on a special IR bench for players who cannot play due to injury for a few weeks. This way, you have extra spots on your team while you pick up other players for current matches.</p>
 
-                    <p>However, this feature is reserved exclusively for injured players. If you're uncertain, try placing up to two players with red letters next to their names on IR. If the option isn't available, they are not eligible, indicating that they are likely a game-time decision and might still play. Feel free to message me if you're unsure about a specific player's eligibility or need assistance with this feature.</p>
-                </section>
+                <p>However, this feature is reserved exclusively for injured players. If you're uncertain, try placing up to two players with red letters next to their names on IR. If the option isn't available, they are not eligible, indicating that they are likely a game-time decision and might still play. Feel free to message me if you're unsure about a specific player's eligibility or need assistance with this feature.</p>
+            </section>
 
-                <footer>
-                    <p>Gear up and may the best teams win! Let's get this season rolling!</p>
-                    <p>Best,<br />Kyle, Your Dedicated Commissioner</p>
-                </footer>
+            <footer>
+                <p>Gear up and may the best teams win! Let's get this season rolling!</p>
+                <p>Best,<br />Kyle, Your Dedicated Commissioner</p>
+            </footer>
         </div>
     );
 }
