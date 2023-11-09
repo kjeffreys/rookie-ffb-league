@@ -50,13 +50,12 @@ function WelcomeMessage()
                 <div className="game-preview">
                     <p>🏈 <strong>Lucy's Mom has got it going on (3-6-0 | 8th) vs The Unit (Dave and Rissa) (2-7-0 | 10th)</strong></p>
                     <p><em>Projected Scores:</em> 110.62 to 102.26</p>
-                    <p>Despite their place in the standings, these two teams have had some massive wins this season. Which one of these friends will go on an early splurge to kick off the holiday season?</p>
+                    <p>Despite their place in the standings, these two teams have had some massive wins this season. Which one of these friends will go on an early points spree to kick off the holiday season?</p>
                 </div>
                 <div className="game-preview">
                     <p>🏈 <strong>Lucy's Head Coach (3-6-0 | 9th) vs El Duderino (4-5-0 | 7th)</strong></p>
                     <p><em>Projected Scores:</em> 105.00 to 67.56</p>
-                    <p>Luke and Kyle...who's points look more like the years of 20th century wars than winning scores of late...
-
+                    <p>Luke and Kyle...whose points look more like the years of 20th century wars than winning scores of late...
                     </p>
                     <p>But someone will win. So, yea!</p>
                 </div>
@@ -64,6 +63,7 @@ function WelcomeMessage()
                     <p>🏈 <strong>Dean's Definitive Team (5-4-0 | 5th) vs Hannah's Nifty Team (6-3-0 | 4th)</strong></p>
                     <p><em>Projected Scores:</em> 105.65 to 114.61</p>
                     <p>Picture one gladiator who clobbers his crippled son-in-law with a mace, and one other viking who burns her gracious hosts hospitable offerings to cinders. And now they get to face each other! </p>
+                    <p>Something historic is bound to happen!</p>
                 </div>
             </section>
 
