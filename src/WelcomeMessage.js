@@ -8,64 +8,60 @@ function WelcomeMessage()
     return (
         <div className="container">
             <div className="header">
-                <h1>Week 8 Awards!</h1>
-                <h2><strong>👑Top Team Score</strong>: 175.12 pts -- The Passion of the Chris(ian)
+                <h1>Week 9 Awards!</h1>
+                <h2><strong>👑Top Team Score</strong>: 168.4 pts -- Lucy's Mom has got it going on
                 </h2>
-                <h2><strong>👑Top Player Score</strong>: CeeDee Lamb -- 35 pts -- Lucy's Mom has got it going on
+                <h2><strong>👑Top Player Score</strong>: C.J. Stroud -- 42.8 pts -- Lucy's Mom has got it going on
                 </h2>
-                <h2><strong>👑Biggest Win</strong>: 60.74 pts -- The Passion of the Christ(ian)
+                <h2><strong>👑Biggest Win</strong>: 100.4 pts -- Lucy's Mom has got it going on
                 </h2>
-                <h2><strong>Fail Snail</strong>: The Maine Event -- Craig fell 29.98 pts short of projection, brutal injuries... 🐌</h2>
+                <h2><strong>Fail Snail</strong>: Hanah's Nifty Team -- Hanah fell 26 pts short of projection. No idea how 🐌</h2>
                 <img src={snailGif} alt="Snail GIF" style={{ width: '100px', height: '100px' }} />
 
             </div>
 
             <section className="announcement">
-                <h2>Week 8 recap</h2>
-                <p>Still a tight race. Bad week for QBs and thus their teams. </p>
-                <p>Hang in there!</p>
-
+                <h2>Week 9 recap</h2>
+                <p>There are definitely two halves of the standings. </p>
+                <p>Playoff seeding is starting to take place!</p>
             </section>
+
             <section className='game-previews'>
-                <h2>Week 9 Game Previews</h2>
+                <h2>Week 10 Game Previews</h2>
                 <p>Alright, now for the fun part! Here's a preview of the epic battles lined up for Week 8!</p>
 
                 <div className="game-preview">
-                    <p>🏈 <strong>Lucy's Head Coach (3-5-0 | 8th) vs Dean's Definitive Team (4-4-0 | 5th)</strong></p>
-                    <p><em>Projected Scores:</em> 100.73 to 111.77</p>
-                    <p>This just in: Sunday's forecast predicted scattered dad jokes with a chance of playful jabs. Will Kyle earn bragging rights before Thanksgiving time? Or will Dean being sending his favorite (and yes, only) son-in-law to eat at the kiddie table?</p>
+                    <p>🏈 <strong>Lucy's Head Coach (3-6-0 | 9th) vs El Duderino (4-5-0 | 7th)</strong></p>
+                    <p><em>Projected Scores:</em> 105.00 to 67.56</p>
+                    <p>The challenge is set for Lucy's Head Coach to climb up from the lower ranks, facing off against El Duderino.</p>
                 </div>
 
                 <div className="game-preview">
-                    <p>🏈 <strong>No Barkley All Bite (6-2-0 | 1st) vs The Passion of the Christ(ian) (5-3-0 | 3rd)</strong></p>
-                    <p><em>Projected Scores:</em> 122.32 to 105.74</p>
-                    <p>They've shared many good times, but which one of these friends will have the last laugh this weekend and claw their way towards the top of the standings?
-                    </p>
+                    <p>🏈 <strong>Dean's Definitive Team (5-4-0 | 5th) vs Hannah's Nifty Team (6-3-0 | 4th)</strong></p>
+                    <p><em>Projected Scores:</em> 105.65 to 114.61</p>
+                    <p>This is a crucial battle for the mid-table standings. Both teams will be looking to solidify their positions.</p>
                 </div>
 
                 <div className="game-preview">
-                    <p>🏈 <strong>Lucy's Mom has got it going on (2-6-0 | 9th) vs El Duderino (4-4-0 | 6th)</strong></p>
-                    <p><em>Projected Scores:</em> 86.39 to 86.94</p>
-                    <p>Sibling vs sibling. Youngest vs oldest. Parent vs parent. Remarkable achiever vs remarkable achiever. Blond beauty vs blond beauty.
-                    </p>
+                    <p>🏈 <strong>No Barkley All Bite (6-3-0 | 2nd) vs The Maine Event (4-5-0 | 6th)</strong></p>
+                    <p><em>Projected Scores:</em> 109.08 to 99.47</p>
+                    <p>A high-stakes match as No Barkley All Bite aims to maintain their top position, while The Maine Event seeks to upset the ranks.</p>
                 </div>
 
                 <div className="game-preview">
-                    <p>🏈 <strong>Espresso LoPres(to) (5-3-0 | 4th) vs Hanah's Nifty Team (5-2-0 | 2nd)</strong></p>
-                    <p><em>Projected Scores:</em> 98.82 to 111.45</p>
-                    <p>Hanah held the fleeting top spot for one sweet week and then it was gone! Will she reclaim it this week? Alicen and Chris have an espressNO to say about that!</p>
+                    <p>🏈 <strong>The Passion of the Christ(ian) (6-3-0 | 1st) vs Espresso LoPres(t)o (6-3-0 | 3rd)</strong></p>
+                    <p><em>Projected Scores:</em> 107.45 to 83.34</p>
+                    <p>A top-of-the-table clash that could shake up the entire league standings!</p>
                 </div>
 
                 <div className="game-preview">
-                    <p>🏈 <strong>The Maine Event (3-5-0 | 7th) vs The Unit (Dave and Rissa) (2-6-0 | 10th)</strong></p>
-                    <p><em>Projected Scores:</em> 77.18 to 89.74</p>
-                    <p>
-                        Dave and Carissa regained control of their lineup last week. But it wasn't enough to overcome key injuries. A tale Craig had to endure indirectly to his key stars. Someone will be granted a kindness and mercy with a victory this week, but who? Whom? Who...m
-                    </p>
+                    <p>🏈 <strong>Lucy's Mom has got it going on (3-6-0 | 8th) vs The Unit (Dave and Rissa) (2-7-0 | 10th)</strong></p>
+                    <p><em>Projected Scores:</em> 110.62 to 102.26</p>
+                    <p>Both teams have a lot to prove this week. It's a pivotal game for their season trajectories.</p>
                 </div>
 
                 <p>
-                    Best of luck to all in week 9!
+                    Best of luck to all in week 10!
                 </p>
 
             </section>
