@@ -35,7 +35,11 @@ function WelcomeMessage()
                     <p><em>Projected Scores:</em> 109.08 to 99.47</p>
                     <p>Bill has 6 wins. 3 losses. Both are multiples of 3. He's in 2nd place. Craig is in 6th place. 6 is divisible by 3. </p>
                     <p>Pretty sure Craig is about to end up with 9 wins and Bill is going to have an aneurysm.</p>
-                    <p>Math. Also don't have an aneurysm, Bill!</p>
+                    <p><strong>MATH</strong>
+                    </p>
+                    <p>
+                        Also don't have an aneurysm, Bill!
+                    </p>
                 </div>
 
                 <div className="game-preview">
