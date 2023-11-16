@@ -61,11 +61,9 @@ function WelcomeMessage()
                 <div className="game-preview">
                     <p>🏈 <strong>The Passion of the Christ(ian) (6-4-0 | 3rd) vs Hanah's Nifty Team (7-3-0 | 2nd)</strong></p>
                     <p><em>Projected Scores:</em> 121.53 to 116.42</p>
-                    <p>Both managers enjoyed a breath at the top of the mountain. But who will make recover and who will be left as a popsicle on the side of the mountain?</p>
+                    <p>Eric and Hanah both made it to the infamous death zone of the Mount Everest that is our league, ascending beyond their opponents but finding out the perilous path at the top. Find out who has grit, endurance, and strategy--and who will be frozen stuck in the standings for others to pass! </p>
                 </div>
             </section>
-
-
             <p>
                 Best of luck to all in week 11!
             </p>
