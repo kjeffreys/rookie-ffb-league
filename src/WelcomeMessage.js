@@ -11,7 +11,7 @@ function WelcomeMessage()
                 <h1>Week 10 Awards!</h1>
                 <h2><strong>👑Top Team Score</strong>: 150.36 pts -- Lucy's Head Coach
                 </h2>
-                <h2><strong>👑Top Player Score</strong>: C.J. Stroud -- 42.8 pts -- Lucy's Mom has got it going on
+                <h2><strong>👑Top Player Score</strong>: Dak Prescott -- 39.86 pts -- Dean's Definitive Team
                 </h2>
                 <h2><strong>👑Biggest Win</strong>: 64.76 pts -- Lucy's Head Coach
                 </h2>
