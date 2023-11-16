@@ -8,67 +8,66 @@ function WelcomeMessage()
     return (
         <div className="container">
             <div className="header">
-                <h1>Week 9 Awards!</h1>
-                <h2><strong>👑Top Team Score</strong>: 168.4 pts -- Lucy's Mom has got it going on
+                <h1>Week 10 Awards!</h1>
+                <h2><strong>👑Top Team Score</strong>: 150.36 pts -- Lucy's Head Coach
                 </h2>
                 <h2><strong>👑Top Player Score</strong>: C.J. Stroud -- 42.8 pts -- Lucy's Mom has got it going on
                 </h2>
-                <h2><strong>👑Biggest Win</strong>: 100.4 pts -- Lucy's Mom has got it going on
+                <h2><strong>👑Biggest Win</strong>: 64.76 pts -- Lucy's Head Coach
                 </h2>
-                <h2><strong>Fail Snail</strong>: Hanah's Nifty Team -- Hanah fell 26 pts short of projection. No idea how 🐌</h2>
+                <h2><strong>Fail Snail</strong>: 🐌 No Barkley All Bite 🐌 -- Bill fell 12 pts short of projection. So it seems everyone did well vs. projections this week honestly... </h2>
                 <img src={snailGif} alt="Snail GIF" style={{ width: '100px', height: '100px' }} />
 
             </div>
 
             <section className="announcement">
-                <h2>Week 9 recap</h2>
-                <p>There are definitely two halves of the standings. </p>
-                <p>Playoff seeding is starting to take place!</p>
+                <h2>Week 10 recap</h2>
+                <p>
+                    We're close now. Very close
+                </p>
             </section>
 
             <section className='game-previews'>
-                <h2>Week 10 Game Previews</h2>
-                <p>Alright, now for the fun part! Here's a preview of the epic battles lined up for Week 8!</p>
+                <h2>Week 11 Game Previews</h2>
+                <p>Alright, now for the fun part! Here's a preview of the epic battles lined up for Week 11!</p>
 
                 <div className="game-preview">
-                    <p>🏈 <strong>No Barkley All Bite (6-3-0 | 2nd) vs The Maine Event (4-5-0 | 6th)</strong></p>
-                    <p><em>Projected Scores:</em> 109.08 to 99.47</p>
-                    <p>Bill has 6 wins. 3 losses. Both are multiples of 3. He's in 2nd place. Craig is in 6th place. 6 is divisible by 3. </p>
-                    <p>Pretty sure Craig is about to end up with 9 wins and Bill is going to have an aneurysm.</p>
-                    <p><strong>MATH</strong>
-                    </p>
-                    <p>
-                        Also don't have an aneurysm, Bill!
-                    </p>
+                    <p>🏈 <strong>Dean's Definitive Team (5-5-0 | 5th) vs El Duderino (4-6-0 | 9th)</strong></p>
+                    <p><em>Projected Scores:</em> 98.03 to 100.49</p>
+                    <p>In our <strong>RIVALRY OF THE WEEK</strong>, it’s the classic David vs. Goliath, if David was mildly disinterested and Goliath had a middle of the pack resume. Watch as these two fantasy juggernaut--ish--opponents...collide.</p>
                 </div>
 
                 <div className="game-preview">
-                    <p>🏈 <strong>The Passion of the Christ(ian) (6-3-0 | 1st) vs Espresso LoPres(t)o (6-3-0 | 3rd)</strong></p>
-                    <p><em>Projected Scores:</em> 107.45 to 83.34</p>
-                    <p>I haven't looked at their lineups recently, but these two opponents must be wielding more healthy knees than a robotic millipede. Barring any electrical storms, this should be a high scoring bout!</p>
+                    <p>🏈 <strong>Espresso LoPres(t)o (7-3-0 | 1st) The Maine Event (5-5-0 | 6th)</strong></p>
+                    <p><em>Projected Scores:</em> 98.42 to 118.69</p>
+                    <p>Craig's team is living up to their namesake, finishing out this show with a big finale.</p>
+                    <p>Meanwhile, first place is starting to look like the Defense Against the Dark Arts position. But the LoPresto's are looking to extend their tenure with another victory.</p>
+                    <p>Who's will end up pulling some a magical victory out this weekend?</p>
                 </div>
+
                 <div className="game-preview">
-                    <p>🏈 <strong>Lucy's Mom has got it going on (3-6-0 | 8th) vs The Unit (Dave and Rissa) (2-7-0 | 10th)</strong></p>
-                    <p><em>Projected Scores:</em> 110.62 to 102.26</p>
-                    <p>Despite their place in the standings, these two teams have had some massive wins this season. Which one of these friends will go on an early points spree to kick off the holiday season?</p>
+                    <p>🏈 <strong>Lucy's Mom has got it going on (4-6-0 | 7th) vs No Barkley All Bite (6-4-0 | 4th)</strong></p>
+                    <p><em>Projected Scores:</em> 100.68 to 109.74</p>
+                    <p>One has all bite, one has a little kick. It's the battle of sass!</p>
+                    <p> But who will kick some...football!</p>
                 </div>
+
                 <div className="game-preview">
-                    <p>🏈 <strong>Lucy's Head Coach (3-6-0 | 9th) vs El Duderino (4-5-0 | 7th)</strong></p>
-                    <p><em>Projected Scores:</em> 105.00 to 67.56</p>
-                    <p>Luke and Kyle...whose points look more like the years of 20th century wars than winning scores of late...
-                    </p>
-                    <p>But someone will win. So, yea!</p>
+                    <p>🏈 <strong>Lucy's Head Coach (4-6-0 | 8th) vs The Unit (2-8-0 | 10th)</strong></p>
+                    <p><em>Projected Scores:</em> 104.48 to 97.11</p>
+                    <p>In a world where ladders are no longer for climbing and are now being used as less than ideal floatation devices, who will stop sinking into the depths of 'there's always next season'?</p>
                 </div>
+
                 <div className="game-preview">
-                    <p>🏈 <strong>Dean's Definitive Team (5-4-0 | 5th) vs Hannah's Nifty Team (6-3-0 | 4th)</strong></p>
-                    <p><em>Projected Scores:</em> 105.65 to 114.61</p>
-                    <p>Picture one gladiator who clobbers his crippled son-in-law with a mace, and one other viking who burns her gracious hosts hospitable offerings to cinders. And now they get to face each other! </p>
-                    <p>Something historic is bound to happen!</p>
+                    <p>🏈 <strong>The Passion of the Christ(ian) (6-4-0 | 3rd) vs Hanah's Nifty Team (7-3-0 | 2nd)</strong></p>
+                    <p><em>Projected Scores:</em> 121.53 to 116.42</p>
+                    <p>Both managers enjoyed a breath at the top of the mountain. But who will make recover and who will be left as a popsicle on the side of the mountain?</p>
                 </div>
             </section>
 
+
             <p>
-                Best of luck to all in week 10!
+                Best of luck to all in week 11!
             </p>
 
 
