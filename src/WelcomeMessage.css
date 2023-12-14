@@ -1,6 +1,9 @@
 body {
     font-family: 'Arial, sans-serif';
-    background-color: #f0f4f8;
+    background-color: #f0f0f0;
+    /* Light gray for a snowy feel */
+    background-image: url('./images/christmasPattern.png');
+    /* Add a subtle Christmas pattern */
     color: #333;
     margin: 0;
     padding: 0;
@@ -13,28 +16,22 @@ body {
     margin: 0 auto;
     padding: 20px;
     background-color: #fff;
+    /* Keep white for clarity */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
     max-width: 800px;
     margin: 20px auto;
 }
 
-.header {
-    width: 100%;
-    padding: 20px;
-    box-sizing: border-box;
-    background-color: #082233;
-    color: #fff;
-    border-radius: 10px 10px 0 0;
-}
-
+.header,
 .footer {
     width: 100%;
     padding: 20px;
     box-sizing: border-box;
-    background-color: #082233;
+    background-color: #d7263d;
+    /* Festive red */
     color: #fff;
-    border-radius: 0 0 10px 10px;
+    border-radius: 10px 10px 0 0;
 }
 
 .announcement,
@@ -44,64 +41,39 @@ section {
     width: 100%;
     padding: 20px;
     box-sizing: border-box;
-    border-bottom: 2px solid #f0f4f8;
-}
-
-.header h1,
-.footer h1,
-.announcement h1,
-.communications-channel h1,
-.game-preview h1,
-section h1 {
-    font-size: 24px;
-    margin-bottom: 10px;
-}
-
-.header p,
-.footer p,
-.announcement p,
-.communications-channel p,
-.game-preview p,
-section p {
-    font-size: 16px;
-    line-height: 1.5;
+    border-bottom: 2px solid #2b9348;
+    /* Christmas tree green */
 }
 
 .game-preview {
-    border-left: 4px solid #e74c3c;
+    border-left: 4px solid #2b9348;
+    /* Christmas tree green */
     padding-left: 16px;
     margin-bottom: 20px;
 }
 
 .game-preview p {
     margin: 10px 0;
+    color: #083d77;
+    /* Dark blue for better readability */
 }
 
+/* Add some festive flair */
+.header h1,
+.footer h1,
+.announcement h1,
+.communications-channel h1,
+.game-preview h1,
+section h1 {
+    color: #ffd700;
+    /* Gold color for better readability */
+
+}
+
+/* Adjusting font sizes for mobile */
 @media (max-width: 600px) {
 
-    .header h1,
-    .footer h1,
-    .announcement h1,
-    .communications-channel h1,
-    .game-preview h1,
-    section h1 {
-        font-size: 20px;
-    }
-
-    .header p,
-    .footer p,
-    .announcement p,
-    .communications-channel p,
-    .game-preview p,
-    section p {
-        font-size: 14px;
-    }
-
-    .container {
-        padding: 10px;
-        margin: 10px auto;
-    }
-
+    .container,
     .header,
     .footer,
     .announcement,
@@ -110,4 +82,36 @@ section p {
     section {
         padding: 10px;
     }
+}
+
+/* Additional festive styling */
+.header,
+.footer {
+    background-image: url('./images/festiveChristmas.png');
+    /* Optional: Add a Christmas themed image to headers and footers */
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #ffd700;
+    /* Gold color for better readability */
+    /* Gold color for better readability */
+}
+
+.footer p {
+    background-image: url('./images/festiveChristmas.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #ffd700;
+    /* Gold color for better readability */
+    padding: 10px;
+    /* Add some padding for visual spacing */
+    border-radius: 5px;
+    /* Optional: for rounded corners */
+}
+
+
+/* Optional: Add hover effects on elements for an interactive touch */
+.game-preview:hover {
+    background-color: #f0f4f8;
+    /* Light blue when hovered */
+    transition: background-color 0.3s;
 }
