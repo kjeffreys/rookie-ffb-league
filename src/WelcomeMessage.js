@@ -8,51 +8,46 @@ function WelcomeMessage()
     return (
         <div className="container">
             <div className="header">
-                <h1>Week 14 Awards!</h1>
+                <h1>Week 15 Awards!</h1>
             </div>
 
             <section className="announcement">
-                <h2><strong>👑Top Team Score</strong>: 181.52 pts -- Espresso LoPresto
+                <h2><strong>👑Top Team Score</strong>: 147 pts -- The Passion of the Christ(ian)
                 </h2>
-                <h2><strong>👑Top Player Score</strong>: Lamar Jackson -- 33.64 pts -- The Unit
+                <h2><strong>👑Top Player Score</strong>: Christian McCaffrey -- 40.2 pts -- The Passion of the Christ(ian)
                 </h2>
-                <h2><strong>👑Biggest Win</strong>: 75 pts -- Espresso LoPres(t)o
+                <h2><strong>👑Biggest Win</strong>: 66 pts -- No Barkley Barely A Bite
                 </h2>
-                <h2><strong>Fail Snail</strong>: 🐌 Hanah's Nifty Team 🐌 -- Hanah fell 29 pts short of projection. But at least it only came off the back of losing her quarterback right before playoffs...yeesh! </h2>
+                <h2><strong>Fail Snail</strong>: 🐌 Lucy's Head Coach 🐌 -- I thought the surprise early games would be the nail in the coffin. But a first round running back with negative points went John Henry on my season like nothing else could. </h2>
                 <img src={snailGif} alt="Snail GIF" style={{ width: '100px', height: '100px' }} />            </section>
 
             <section className='game-previews'>
-                <h2><strong>QUARTERFINALS</strong> - Where Dreams Come True (or get CRUSHED for half of us)
+                <h2><strong>SEMIFINALS</strong> - {"There are too few of us now"} <i>Treebeard</i>
                 </h2>
                 <div className="game-preview">
-                    <p>🏈 <strong>Lucy's Head Coach (5-9-0 | 8th) vs No Barkley All Bite (9-5-0 | 1st)</strong></p>
-                    <p><em>Projected Scores:</em> 108.34 to 118.16</p>
-                    <p>Kyle's team: valiant underdogs or just waiting to be Bill's next discarded chew toy? Place your bets!</p>
+                    <p>🏈 <strong>The Passion of the Christ(ian) (8-6-0 | 4th) vs No Barkley All Bite (9-5-0 | 1st)</strong></p>
+                    <p><em>Projected Scores:</em> 120 to 121</p>
+                    <p>Friends who play together...end up slaughtering each other for the trophy.</p>
                 </div>
                 <div className="game-preview">
-                    <p>🏈 <strong>Dean's Definitive Team (6-8-0 | 7th) vs Espresso LoPres(t)o (9-5-0 | 2nd)</strong></p>
-                    <p><em>Projected Scores:</em> 108.02 to 115.61</p>
-                    <p>It's the classic tale of hard work vs. sheer existence. Who will emerge victorious?
+                    <p>🏈 <strong>Hanah's Nifty Team (9-5-0 | 3rd) vs Espresso LoPres(t)o (9-5-0 | 2nd)</strong></p>
+                    <p><em>Projected Scores:</em> 117 to 110</p>
+                    <p>Ladies...
                     </p>
                 </div>
 
                 <div className="game-preview">
-                    <p>🏈 <strong>Lucy's Mom has got it going on (7-7-0 | 5th) vs The Passion of the Christ(ian) (8-6-0 | 4th)</strong></p>
+                    <p>🏈 <strong>Lucy's Mom has got it going on (7-7-0 | 5th) vs Lucy's Head Coach (8-6-0 | 8th)</strong></p>
                     <p><em>Projected Scores:</em> 120.39 to 120.98</p>
-                    <p>Joanna and Eric, both sitting comfortably in the middle of the pack, are ready to bid a <i>top o the mornin</i> on their way up the winners bracket. Will Joanna's team dance a jig to victory, or will Eric’s squad find the pot of gold at the end of the rainbow?
+                    <p>How poetic it is to be left for dead together as spouses.
                     </p>
-                    <p>
-                        We'll see who has the luck of the Irish
-                    </p>
-
                 </div>
 
                 <div className="game-preview">
-                    <p>🏈 <strong>The Maine Event (6-6-0 | 6th) vs Hanah's Nifty Team (9-5-0 | 3rd)</strong></p>
+                    <p>🏈 <strong>The Maine Event (6-6-0 | 6th) vs Dean's Definitive Team(6-8-0 | 7th)</strong></p>
                     <p><em>Projected Scores:</em> 114.82 to 102.19</p>
-                    <p>This is a wildcard battle! Hanah, who reigned supreme atop the standings, faces a sudden twist of fate losing her quarterback and top receiver. Meanwhile, Craig, the patient strategist, has been quietly waiting for L.A. to morph into a healthy fantasy football dream team.
+                    <p>Oof
                     </p>
-                    <p>Can Hanah's generic team put together a group of offbrand players to strike another victory? Or is Craig a <strong>DARK <em>RAM</em></strong> to win playoffs? </p>
 
                 </div>
                 <div className="game-preview">
