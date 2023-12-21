@@ -22,7 +22,7 @@ function WelcomeMessage()
                 <img src={snailGif} alt="Snail GIF" style={{ width: '100px', height: '100px' }} />            </section>
 
             <section className='game-previews'>
-                <h2><strong>SEMIFINALS</strong> - {"There are too few of us now"} <i>Treebeard</i>
+                <h2><strong>SEMIFINALS</strong> - {'"There are too few of us now" --Treebeard'}
                 </h2>
                 <div className="game-preview">
                     <p>🏈 <strong>The Passion of the Christ(ian) (8-6-0 | 4th) vs No Barkley All Bite (9-5-0 | 1st)</strong></p>
