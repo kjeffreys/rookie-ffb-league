@@ -46,9 +46,8 @@ function WelcomeMessage()
                 <div className="game-preview">
                     <p>🏈 Consolation: <strong>The Maine Event (6-6-0 | 6th) vs Dean's Definitive Team(6-8-0 | 7th)</strong></p>
                     <p><em>Projected Scores:</em> 114.82 to 102.19</p>
-                    <p>Like Jo and Kyle, somehow the strategy of lose now, win later did not pan out in the playoffs for Craig and Dean. Best of luck in the consolation hunt. The prize? I don't know, a duck maybe? Oh, a Christmas goose! Where my Adventures of Sherlock Holmes fans at?
+                    <p>Like Jo and Kyle, somehow the strategy of lose now, win later did not pan out in the playoffs for Craig and Dean. Best of luck in the consolation hunt. The prize? I don't know, a duck maybe? Oh, a Christmas goose!
                     </p>
-
                 </div>
                 <div className="announcement">
                     Best of luck to our semi-finalists!
