@@ -39,14 +39,14 @@ function WelcomeMessage()
                 <div className="game-preview">
                     <p>🏈 Consolation: <strong>Lucy's Mom has got it going on (7-7-0 | 5th) vs Lucy's Head Coach (8-6-0 | 8th)</strong></p>
                     <p><em>Projected Scores:</em> 120.39 to 120.98</p>
-                    <p>A family feud that never made it to a reality TV show - with less drama and no bragging rights. Merry Christmas honey, glad to always end up by your side.
+                    <p>A family feud that never made it to a reality TV show - with no drama and no bragging rights. Merry Christmas honey! Glad to always end up by your side.
                     </p>
                 </div>
 
                 <div className="game-preview">
                     <p>🏈 Consolation: <strong>The Maine Event (6-6-0 | 6th) vs Dean's Definitive Team(6-8-0 | 7th)</strong></p>
                     <p><em>Projected Scores:</em> 114.82 to 102.19</p>
-                    <p>Like Jo and Kyle, somehow the strategy of lose now, win later did not pan out in the playoffs for these two. Best of luck in the consolation hunt. The prize? I don't know, a duck maybe? Oh, a Christmas goose! Where my Adventures of Sherlock Holmes fans at?
+                    <p>Like Jo and Kyle, somehow the strategy of lose now, win later did not pan out in the playoffs for Craig and Dean. Best of luck in the consolation hunt. The prize? I don't know, a duck maybe? Oh, a Christmas goose! Where my Adventures of Sherlock Holmes fans at?
                     </p>
 
                 </div>
