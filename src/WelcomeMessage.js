@@ -27,7 +27,7 @@ function WelcomeMessage()
                 <div className="game-preview">
                     <p>🏈 Semifinals: <strong>The Passion of the Christ(ian) (8-6-0 | 4th) vs No Barkley All Bite (9-5-0 | 1st)</strong></p>
                     <p><em>Projected Scores:</em> 120 to 121</p>
-                    <p>Friends turned frenemies for the semifinals. What will the victor taste? Frictory!</p>
+                    <p>Friends turned frenemies for the semifinals. Who will taste frictory!</p>
                 </div>
                 <div className="game-preview">
                     <p>🏈 Semifinals: <strong>Hanah's Nifty Team (9-5-0 | 3rd) vs Espresso LoPres(t)o (9-5-0 | 2nd)</strong></p>
