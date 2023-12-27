@@ -1,7 +1,5 @@
 import React from 'react';
 import './WelcomeMessage.css';
-import snailGif from './images/trigger-happy-tv-snail.gif';
-
 
 function WelcomeMessage()
 {
